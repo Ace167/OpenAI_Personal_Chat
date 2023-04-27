@@ -1,4 +1,4 @@
-# OpenAI_Personal_Chat
+# OpenAI Personal Chat
 
 Simple OpenAI Python Chatbot. OpenAI API needed.
 
